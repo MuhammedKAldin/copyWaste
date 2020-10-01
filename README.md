@@ -12,3 +12,8 @@ while still focusing on writing specified part to type
 and Never miss the self code proccessing step at any project for a fully understanding mindset
 
 ~~ by MuhammedKAldin ~~
+
+#Usage :-
+1- copy anything
+2- click Mouse3 "middle Mouseb Button" in anyarea of your screen to display the copy to that place
+3- Done!
