@@ -16,4 +16,5 @@ and Never miss the self code proccessing step at any project for a fully underst
 #Usage :-
 1- copy anything
 2- click Mouse3 "middle Mouseb Button" in anyarea of your screen to display the copy to that place while you are working , it will stay there, also you can click Middle mouse button again to reposition it anywhere anytime
-3- That simple!
+3- F4 Exits the application
+4- That simple!
